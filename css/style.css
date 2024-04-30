@@ -11,7 +11,7 @@ nav li{
 	    margin: 0 13px;
 }
 #intro .jumbotron{
-	background: url('../pictures/mainbg.png');
+	background: url('../pictures/korea.jpg');
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -60,7 +60,7 @@ p{
 }
 p.lead{
 	color: black;
-	line-height: 31px;
+	line-height: 50px;
 }
 #latest {
 	background: rgb(248, 248, 248);
